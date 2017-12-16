@@ -77,6 +77,7 @@
 
 			var imagen = document.createElement('img');
 			imagen.src = '../../img/' + imagenes[i];
+			imagen.setAttribute('alt','');
 			caja2.appendChild(imagen);
 
 
