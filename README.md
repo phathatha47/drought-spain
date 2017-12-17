@@ -1,6 +1,6 @@
 
 
-#ARCHIVO DE AUDIO **CreativeCommonsSong**
+# ARCHIVO DE AUDIO **CreativeCommonsSong**
 
 [Página del video instalado] (https://www.bensound.com)
 
@@ -19,9 +19,9 @@ con las siguientes herramientas, métodos y explicaciones:
 
 
 
-#EDICION DE IMAGENES
+# EDICION DE IMAGENES
 
-###Para este ejercicio se ha utilizado la herramienta de edición de imágenes GIMP.
+### Para este ejercicio se ha utilizado la herramienta de edición de imágenes GIMP.
 
 Los efectos aplicados son los siguientes:
 
@@ -38,9 +38,9 @@ Los efectos aplicados son los siguientes:
 
 
 
-#CREACION DEL BANNER
+# CREACION DEL BANNER
 
-###Todo el proceso se ha realizado con Gimp combinado capas.
+### Todo el proceso se ha realizado con Gimp combinado capas.
 
 1. FONDO
   1.1 EL TAMAÑO DEL BANNER ES JUSTAMENTE DEL TAMAÑO DE LA PAGINA A REALIZAR(940PX) CON FONDO TRANSPARENTE.
@@ -55,12 +55,12 @@ Los efectos aplicados son los siguientes:
 
 
 
-#EDICION DE VIDEO
+# EDICION DE VIDEO
 
 
   [Página de video utilizado](https://pixabay.com/es/videos/flor-desierto-karg-seca-licuadora-11053/)
 
-###EFECTOS UTILIZADOS
+### EFECTOS UTILIZADOS
 
 + Efecto de relantización de video(aumentar duración de video)
 
