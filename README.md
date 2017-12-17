@@ -2,7 +2,7 @@
 
 # ARCHIVO DE AUDIO **CreativeCommonsSong**
 
-[Página del video instalado] (https://www.bensound.com)
+[Página del video instalado](https://www.bensound.com)
 
 
 Para aplicar los efectos en el archivo de audio se ha utilizado Audacity
