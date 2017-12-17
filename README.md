@@ -44,7 +44,7 @@ Los efectos aplicados son los siguientes:
 
 1. Fondo
 <br>1.1 El tamaño del banner es justamente del tamaño de la página a realizar(940PX) con fondo transparente.
-<br>1.2 El fonde se ha realizado combinando 2 colres difuminados con la herramienta gradiente.
+<br>1.2 El fonde se ha realizado combinando 2 colores difuminados con la herramienta gradiente.
 2. Texto
 <br>2.1 La consecición de texto se consiguio gracias a la alineación de las letras por cada fotograma.
 3. Combinación
