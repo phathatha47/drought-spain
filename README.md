@@ -42,15 +42,15 @@ Los efectos aplicados son los siguientes:
 
 ### Todo el proceso se ha realizado con Gimp combinado capas.
 
--1. Fondo
--<br>1.1 El tamaño del banner es justamente del tamaño de la página a realizar(940PX) con fondo transparente.
--<br>1.2 El fonde se ha realizado combinando 2 colres difuminados con la herramienta gradiente.
--2. Texto
--<br>2.1 La consecición de texto se consiguio gracias a la alineación de las letras por cada fotograma.
--3. Combinación
--<br>3.1 Una vez creadas todas las cajas necesarias, estas se fusionaban hacia abajo con el fondo duplicad con la que se
+1. Fondo
+<br>1.1 El tamaño del banner es justamente del tamaño de la página a realizar(940PX) con fondo transparente.
+<br>1.2 El fonde se ha realizado combinando 2 colres difuminados con la herramienta gradiente.
+2. Texto
+<br>2.1 La consecición de texto se consiguio gracias a la alineación de las letras por cada fotograma.
+3. Combinación
+<br>3.1 Una vez creadas todas las cajas necesarias, estas se fusionaban hacia abajo con el fondo duplicad con la que se
    conseguian tantas capas como cajas de texto.
--<br>3.2 Se podia visualizar el resultado final gracias al apartado ***filtros*** de **Gimp** en la parte superior y la opción **animación** situada al final del cuadro contextual.
+<br>3.2 Se podia visualizar el resultado final gracias al apartado ***filtros*** de **Gimp** en la parte superior y la opción **animación** situada al final del cuadro contextual.
 
 
 
