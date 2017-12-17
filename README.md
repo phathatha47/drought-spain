@@ -42,15 +42,15 @@ Los efectos aplicados son los siguientes:
 
 ### Todo el proceso se ha realizado con Gimp combinado capas.
 
-1. FONDO
-<br>1.1 EL TAMAÑO DEL BANNER ES JUSTAMENTE DEL TAMAÑO DE LA PAGINA A REALIZAR(940PX) CON FONDO TRANSPARENTE.
-<br>1.2 EL FONDO SE HA REALIZADO COMBINANDO 2 COLORES DIFUMINANDOLOS CON LA HERRAMIENTA GRADIENTE.
-2. TEXTO
-<br>2.1 LA CONSECUCION DE TEXTO SE CONSIGUIO GRACIAS A LA ALINEACION DE LAS LETRAS POR CADA FOTOGRAMA.
-  	  ES DECIR POR CADA CAJA DE TEXTO SE DUPLICABA EL FONDO CREADO Y SE ALINEABA CON LA CAJA DE TEXTO ANTERIOR.
-3. COMBINACION
-<br>3.1 UNA VEZ CREADAS TODAS LAS CAJAS NECESARIAS, ESTAS SE FUSIONABAN HACIA ABAJO CON EL FONDO DUPLICADO CON LO QUE SE CONSEGUIAN TANTAS CAPAS COMO CAJAS DE TEXTO.
-<br>3.2 SE PODIA VISUALIZAR EL RESULTADO FINAL GRACIAS AL APARTADO ***FILTROS*** DE **GIMP** EN LA PARTE SUPERIOR Y A LA OPCION **ANIMACION** SITUADA AL FINAL DE CUADRO CONTEXTUAL.
+    1. Fondo
+    <br>1.1 El tamaño del banner es justamente del tamaño de la pagina a realizar(940px) con fondo transparente.
+    <br>1.2 El fondo se ha realizado combinando 2 colores difuminandolos con la herramienta gradiente.
+    2. Texto
+    <br>2.1 La consecucion de texto se consiguio gracias a la alineacion de las letras por cada fotograma. es decir por cada caja de texto se duplicaba el fondo creado y se alineaba con la caja de texto anterior.
+    3. Combinacion
+    <br>3.1 Una vez creadas todas las cajas necesarias, estas se fusionaban hacia abajo con el fondo duplicado con lo que se conseguian tantas capas como cajas de texto.
+    <br>3.2 Se podia visualizar el resultado final gracias al apartado **filtros** de **gimp** en la parte superior y a la opcion **animacion** situada al final de cuadro contextual.
+
 
 
 
