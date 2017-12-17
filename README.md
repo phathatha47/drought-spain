@@ -25,11 +25,11 @@ con las siguientes herramientas, métodos y explicaciones:
 
 Los efectos aplicados son los siguientes:
 
- 1. Desierto
+ 1. Desierto<br>
  1.1 La herramienta utilizada ha sido la de ***saneado*** con la eliminamos a la persona del paisaje.
- 2. Sequia1
+ 2. Sequia1<br>
  2.1 Se ha aplicado un filtro del menú superior, la opción ***artísticos*** y pintura al óleo.
- 3. Sequia2
+ 3. Sequia2<br>
  3.1 El efecto final se ha conseguido gracias a la superposición de capas y aplicación de filtros de saturación y colores.
  		Añadiendo una máscara a la primera capa(que es la que heredará el color de la segunda capa), y se ira dibujando la zonas a las que se quiera aplicar el color.
 
