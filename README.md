@@ -1,4 +1,6 @@
 
+# El index dentro de la carpeta **HTML** solo contiene el video y este a su final redirecciona al index de la carpeta **PRINCIPAL**
+
 
 # ARCHIVO DE AUDIO **CreativeCommonsSong**
 
